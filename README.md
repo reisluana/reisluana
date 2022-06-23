@@ -1,7 +1,6 @@
 ### Olá! Hi there! I'm Luana Reis 👋
 🚧 This readme is under construction 🚧
 
-- 🌱 I’m currently learning React
 - 😄 Pronouns: ela/dela - she/her
 
 <div align="center">

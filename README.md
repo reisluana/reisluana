@@ -1,5 +1,4 @@
 ### Olá! Hi there! I'm Luana Reis 👋
-🚧 This readme is under construction 🚧
 
 <div align="center">
   <a href="https://github.com/reisluana">

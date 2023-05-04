@@ -1,5 +1,7 @@
 ### Olá! Hi there! I'm Luana Reis 👋
-
+<div>
+  I'm currently learning Java.
+</div>
 <div align="center">
   <a href="https://github.com/reisluana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisluana&layout=compact&langs_count=7&theme=highcontrast"/>
